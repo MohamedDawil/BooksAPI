@@ -1,0 +1,13 @@
+﻿body {
+}
+#searchresults div{
+   padding: 3px 4px;
+}
+
+.clicked {
+    color: #551A8B !important;
+}
+
+.book {
+    cursor: pointer;
+}
